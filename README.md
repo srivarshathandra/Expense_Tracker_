@@ -30,7 +30,14 @@ Database	MySQL
 Visualization	Plotly
 API Calls	Requests
 📁 Project Structure
-Full_Stack_Expense_Tracker/ │ ├── backend/ │ └── main.py # FastAPI backend │ ├── frontend/ │ └── app.py # Streamlit frontend │ ├── .env # Environment variables ├── requirements.txt # Python dependencies └── README.md
+Full_Stack_Expense_Tracker/ 
+│ ├── backend/ 
+│ └── main.py # FastAPI backend 
+│ ├── frontend/ 
+│ └── app.py # Streamlit frontend 
+│ ├── .env # Environment variables 
+├── requirements.txt # Python dependencies 
+└── README.md
 
 ⚙️ Setup Instructions
 1️⃣ Clone the Repository
